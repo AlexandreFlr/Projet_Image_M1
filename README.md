@@ -1,2 +1,2 @@
-# Projet_Image_M1
-Projet de mosaïque d'images
+# Projet_Image
+Projet d'Image - Sujet 2 - Mosaïques d'images - FLEURY Alexandre et CABALLERO Fabien
